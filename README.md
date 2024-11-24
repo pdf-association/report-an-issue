@@ -6,6 +6,11 @@
 &nbsp;&nbsp;&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJL_M0VH2lm65gvGVarUTKQ?style=social)
 
+![Open](https://img.shields.io/github/issues/pdf-association/report-an-issue)
+&nbsp;&nbsp;&nbsp;
+![Resolved](https://img.shields.io/github/issues-closed-raw/pdf-association/report-an-issue)
+
+
 _**Home of the worldwide PDF technical community**_
 
 This public GitHub repository is for reporting issues and requests against PDF Association technical notes, application notes, whitepapers, best practice guides,  test suites, cheat sheets, flyers, booklets, etc. 
