@@ -9,7 +9,7 @@
 
 _**Home of the worldwide PDF technical community**_
 
-This public GitHub repository is for reporting issues and requests against PDF Association technical notes, application notes, whitepapers, best practice guides,  test suites, cheat sheets, flyers, booklets, etc. 
+This public GitHub repository is for reporting issues and requests against PDF Association technical notes, application notes, whitepapers, best practice guides,  test suites, cheat sheets, flyers, booklets, webpage, etc. 
 
 The public [pdf-issues](https://github.com/pdf-association/pdf-issues/) GitHub repository is for reporting errata and enhancements against any PDF related specification, including ISO publications and PDF Association industry specifications (such as "Well-Tagged PDF", "PDF Declarations", or "Deriving HTML from PDF"). The latest corrections for all PDF specifications can always be found at [https://pdf-issues.pdfa.org/](https://pdf-issues.pdfa.org/).
 
